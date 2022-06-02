@@ -1,7 +1,7 @@
 name;age;company
-davi;51;itau
+davi;;itau
 Liam;88;an
-Noah;88;any
+Noah;;any
 Oliver;88;any
 Elijah;88;any
 James;88;any
