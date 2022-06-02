@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "age": {"type": "number", "min": 1},
+        "name": {"type": "string"},
+        "company": {"type" : "string", "minLength" : 3}
+    },
+    "required" : ["age", "name", "company"]
+}
